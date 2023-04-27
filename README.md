@@ -1,9 +1,11 @@
 # 2D-Coordinate-Rotating-and-Vectoring-based-Design-Methodology-CORDIC-using-Verilog-HDL
 # INDEX
 ## Table of Contents
-* [2D coordinate rotating](#2D-coordinate-rotating) 
-    + [STA feature](#STA-feature)
-    + [Inputs to STA](#Inputs-to-STA)
-    + [Timing path Elements](#Timing-path-Elements)
-    + [Slack](#Slack)
-    + [DAY 1 LAB](#DAY-1-LAB)
+* [2D coordinate rotating using verilog](#2D-coordinate-rotating-using-verilog) 
+    + [Simulation output of rotating](#Simulation-output-of-rotating)
+    + [Synthesis of rotating using GENUS](#Synthesis-of-rotating-using-GENUS)
+   
+* [2D coordinate rotating using verilog](#2D-coordinate-rotating-using-verilog) 
+    + [Simulation output of rotating](#Simulation-output-of-rotating)
+    + [Synthesis of rotating using GENUS](#Synthesis-of-rotating-using-GENUS)
+   
