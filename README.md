@@ -111,3 +111,9 @@ endmodule
 
 
 # Synthesis of rotating using GENUS
+
+- First login to server
+```verilog
+ssh -X dic_lab_02@192.168.88.31
+```
+
