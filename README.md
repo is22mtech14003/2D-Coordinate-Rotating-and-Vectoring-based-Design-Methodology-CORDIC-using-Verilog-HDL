@@ -107,7 +107,7 @@ module test_rotation_mode();
 endmodule
 ```
 # Simulation output of rotating
-![image](https://user-images.githubusercontent.com/120499567/234943006-7668987a-844c-450f-9ee4-b363a337281e.png)
+![image](https://user-images.githubusercontent.com/120499567/234966549-bb44ead5-fdb6-4dd4-99ff-386eda3070b4.png)
 
 
 # Synthesis of rotating using GENUS
