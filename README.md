@@ -116,4 +116,27 @@ endmodule
 ```verilog
 ssh -X dic_lab_02@192.168.88.31
 ```
+- Then create a working directory (ROTATING) at:
+```
+/DIG_DESIGN/INTERNS/dic_lab_02/ABHINAV/VECTORING/
+```
+- Then write the ROTATING.v and ROTATING.tcl file in the working directory.
+
+- Now invoke CADENCE in the working directory
+
+# Steps to invoke Cadence
+```
+tcsh
+source /DIG_DESIGN02/APPLICATION_CMS/Cadence/cshrc_cadence
+```
+- Now invoke GENUS in the working directory
+```
+genus -legacy_ui
+```
+- Now to runs synthesis run the .tcl file using followig command
+```
+source ROTATING.tcl
+```
+# TERMINAL
+
 
