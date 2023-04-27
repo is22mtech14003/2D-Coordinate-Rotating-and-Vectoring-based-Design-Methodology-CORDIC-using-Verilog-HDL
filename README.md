@@ -137,6 +137,13 @@ genus -legacy_ui
 ```
 source ROTATING.tcl
 ```
-# TERMINAL
+### TERMINAL
+![1](https://user-images.githubusercontent.com/120499567/234962155-62956c88-7f38-4af9-b914-473f08e65793.PNG)
+![2](https://user-images.githubusercontent.com/120499567/234962331-342439ab-030b-4039-9499-a7d6a4dc4c78.PNG)
+## SYNTHESIZED DESIGN
+
+![3](https://user-images.githubusercontent.com/120499567/234962584-2fe2b4e6-d542-4faf-8367-429f92c24630.png)
+![4](https://user-images.githubusercontent.com/120499567/234962893-b279216d-1a54-49fa-ae8d-30f2c88e5334.png)
+
 
 
