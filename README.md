@@ -19,7 +19,7 @@
    
 # 2D coordinate rotating using verilog
 ## code
-```
+```verilog
 module rotation_mode_4 #(parameter N=32)(
     input  signed [N-1:0] x0, y0,
     input  signed [17:0] angle,
