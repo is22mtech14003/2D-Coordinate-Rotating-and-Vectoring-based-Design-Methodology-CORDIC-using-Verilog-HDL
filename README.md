@@ -135,11 +135,11 @@ endmodule
 
 - First login to server
 ```verilog
-ssh -X dic_lab_02@192.168.88.31
+ssh -X dic_lab_04@192.168.88.31
 ```
 - Then create a working directory (ROTATING) at:
 ```
-/DIG_DESIGN/INTERNS/dic_lab_02/ABHINAV/VECTORING/
+/DIG_DESIGN/INTERNS/dic_lab_04/PAPPU/VECTORING/
 ```
 - Then write the ROTATING.v and ROTATING.tcl file in the working directory.
 
