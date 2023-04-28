@@ -734,10 +734,21 @@ module itteration_vec(clk,stage,xi,yi,initial_angle,micro_angle,xf,yf,out_angle,
   initial begin
     {xi,yi}={16'd20, 16'd20};
    end
+   endmodule
    ```
    # SIMULATION OUTPUT of DOUBLY PIPELINE
    
-endmodule
+![image](https://user-images.githubusercontent.com/120499567/235064622-fc717e15-a719-4d3c-888e-96a2ff04c577.png)
+
+# SYNTHESIS of DOUBLY PIPELINE using GENUS
+
+![a](https://user-images.githubusercontent.com/120499567/235064858-254e8261-ba43-42a3-b45b-13ca28910200.png)
+![e](https://user-images.githubusercontent.com/120499567/235065258-fdeee192-fa70-4836-a45f-3facf4a65e8f.png)
+
+![c](https://user-images.githubusercontent.com/120499567/235065024-8b2cfd9d-c279-4916-9755-79cf8d79bc7d.png)
+![d](https://user-images.githubusercontent.com/120499567/235065103-bdfa0655-0d52-470c-968a-8b40afe94a53.png)
+
+
 
 
 
