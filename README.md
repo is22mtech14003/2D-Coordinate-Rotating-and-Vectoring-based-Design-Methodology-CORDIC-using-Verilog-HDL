@@ -293,7 +293,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/120499567/234984970-7e9ecbfd-7055-4d02-9d44-1131536eeb39.png)
 
 
-#Computing Transcendental Functions using Rotating and Vectoring based Design Methodology CORDIC
+# Computing Transcendental Functions using Rotating and Vectoring based Design Methodology CORDIC
 ## code
 ```verilog
 module ROTATING_VECTORING(clk,xi,yi,xf,yf);
