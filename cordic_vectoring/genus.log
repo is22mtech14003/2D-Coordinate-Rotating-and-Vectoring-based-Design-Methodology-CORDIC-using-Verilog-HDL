@@ -1,0 +1,57 @@
+Cadence Genus(TM) Synthesis Solution.
+Copyright 2020 Cadence Design Systems, Inc. All rights reserved worldwide.
+Cadence and the Cadence logo are registered trademarks and Genus is a trademark
+of Cadence Design Systems, Inc. in the United States and other countries.
+
+Version: 20.10-p001_1, built Fri Dec 11 02:59:55 PST 2020
+Options: -legacy_ui 
+Date:    Fri Apr 28 02:00:34 2023
+Host:    DIGITAL-SERVER (x86_64 w/Linux 3.10.0-1160.36.2.el7.x86_64) (8cores*64cpus*4physical cpus*Intel(R) Xeon(R) CPU E5-4650 0 @ 2.70GHz 20480KB) (131826588KB)
+PID:     15072
+OS:      Red Hat Enterprise Linux Server release 7.9 (Maipo)
+
+Checking out license: Genus_Synthesis
+
+
+***********************************************************************************************************
+***********************************************************************************************************
+
+
+
+Loading tool scripts...
+
+Finished loading tool scripts (27 seconds elapsed).
+
+WARNING: This version of the tool is 867 days old.
+legacy_genus:/> source rotating_vectoring.tcl
+File 'rotating_vectoring.tcl' does not exist.
+legacy_genus:/> source rotating_vectoring.tcl
+File 'rotating_vectoring.tcl' does not exist.
+legacy_genus:/> source rotating_vectoring.tc
+File 'rotating_vectoring.tc' does not exist.
+legacy_genus:/> source rotating_vectoring.tcl
+File 'rotating_vectoring.tcl' does not exist.
+legacy_genus:/> source rotating_vectoring.tcl
+File 'rotating_vectoring.tcl' does not exist.
+legacy_genus:/> cd pappu
+Error   : A required object parameter could not be found. [TUI-61] [vcd]
+        : An object named 'pappu' could not be found.
+        : Check to make sure that the object exists and is of the correct type.  The 'what_is' command can be used to determine the type of an object.
+  vcd: sets position in object hierarchy 
+
+Usage: vcd [<object>]
+
+    [<object>]:
+        dos target directory 
+1
+legacy_genus:/> cd ..//
+Error   : A required object parameter could not be found. [TUI-61] [vcd]
+        : An object named '..//' could not be found.
+  vcd: sets position in object hierarchy 
+
+Usage: vcd [<object>]
+
+    [<object>]:
+        dos target directory 
+1
+X connection to localhost:14.0 broken (explicit kill or server shutdown).
